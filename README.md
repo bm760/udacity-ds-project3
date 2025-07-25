@@ -1,55 +1,18 @@
-# README Template
+# Project: Data Science Pipeline
 
-Below is a template provided for use when building your README file for students.
-
-# Project Title
-
-Project description goes here.
-
-## Getting Started
-
-Instructions for how to get a copy of the project running on your local machine.
-
-### Dependencies
-
-```
-Examples here
-```
-
-### Installation
-
-Step by step explanation of how to get a dev environment running.
-
-List out the steps
-
-```
-Give an example here
-```
-
-## Testing
-
-Explain the steps needed to run any automated tests
-
-### Break Down Tests
-
-Explain what each test does and why
-
-```
-Examples here
-```
+Building a predictive model for an online women's clothing retailer.
 
 ## Project Instructions
 
-This section should contain all the student deliverables for this project.
+- Use the provided data to create a machine learning model pipeline.
+- Handle the data appropriately in your pipeline to predict whether or not a customer would recommend a product based on the other features. Note the data includes numerical, categorical, and text data.
+- Ensure you properly train and evaluate your model.
 
 ## Built With
 
-* [Item1](www.item1.com) - Description of item
-* [Item2](www.item2.com) - Description of item
-* [Item3](www.item3.com) - Description of item
+- numpy
+- pandas
+- scikit-learn
+- spacy
 
-Include all items used to build project.
 
-## License
-
-[License](LICENSE.txt)
